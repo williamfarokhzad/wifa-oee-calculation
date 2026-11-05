@@ -1,0 +1,3 @@
+shift,planned_s,stop_s,ideal_cycle_ms,total,good
+All-stopped,900,900,2500,0,0
+No-parts,900,0,2500,0,0

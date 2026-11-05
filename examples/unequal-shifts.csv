@@ -1,0 +1,3 @@
+shift,planned_s,stop_s,ideal_cycle_ms,total,good
+Short,1800,0,2500,720,720
+Long,7200,2400,2500,1440,1440
